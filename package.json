@@ -1,0 +1,23 @@
+{
+  "name": "psd_5",
+  "version": "1.0.0",
+  "description": "5th psd project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akseonov/psd_5.git"
+  },
+  "author": "Malcador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akseonov/psd_5/issues"
+  },
+  "homepage": "https://github.com/Akseonov/psd_5#readme",
+  "dependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
